@@ -35,4 +35,5 @@ sections:
     has_background: true
     background_color: blue
 template: advanced
+
 ---
