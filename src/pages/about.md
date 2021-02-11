@@ -25,16 +25,7 @@ sections:
       - src/data/team/dianne-ameter.yaml
       - src/data/team/eleanor-carr.yaml
       
-  - type: cta_section
-    title: Join the
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
-template: advanced
+  - 
 
 type: cta_sections
     title: Join the
