@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/au_fhd.png"
     },
     "footer": {
         "has_nav": true,
