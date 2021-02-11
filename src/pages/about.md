@@ -25,7 +25,7 @@ sections:
       - src/data/team/dianne-ameter.yaml
       - src/data/team/eleanor-carr.yaml
       
-  - type: cta_sections
+  - type: cta_section
     title: Join the
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
