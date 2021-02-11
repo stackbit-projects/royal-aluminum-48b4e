@@ -30,7 +30,7 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/au_crest.png"
+        "logo": "images/hero.svg"
     },
     "footer": {
         "has_nav": true,
