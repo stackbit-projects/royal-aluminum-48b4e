@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "f",
+                "label": "",
                 "url": "/features",
                 "style": "link"
             },
