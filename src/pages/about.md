@@ -26,7 +26,7 @@ sections:
       - src/data/team/eleanor-carr.yaml
       
   - type: cta_section
-    title: Join the Team
+    title: Join the Te
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
