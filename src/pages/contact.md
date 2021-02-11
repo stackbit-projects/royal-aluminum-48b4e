@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contacts
-    align: center
+    align: cleft
   - type: contact_section
 template: advanced
 ---
