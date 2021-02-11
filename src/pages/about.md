@@ -36,7 +36,7 @@ sections:
     background_color: blue
 template: advanced
 
-type: cta_section
+type: cta_sections
     title: Join the
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
