@@ -29,8 +29,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "images/hero.svg"
+        ]
     },
     "footer": {
         "has_nav": true,
