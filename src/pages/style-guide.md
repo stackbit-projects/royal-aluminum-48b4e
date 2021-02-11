@@ -3,7 +3,30 @@ title: Style Guide
 template: page
 ---
 
-
+sections:
+  - type: hero_section
+    title: This Is A Big Hero Headline
+    subtitle: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
+    actions:
+      - label: Learn More
+        url: /features
+        style: primary
+      - label: Contact Us
+        url: /contact
+        style: secondary
+    align: left
+    image: images/hero.svg
+    image_alt: Hero placeholder image
+    image_position: right
+    has_background: true
+    background:
+      background_color: blue
+      background_image: images/diagonal-lines.svg
+      background_image_opacity: 20
+      background_image_size: auto
+      background_image_repeat: repeat
 
 
 This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
