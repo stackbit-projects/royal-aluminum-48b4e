@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hero
-    subtitle: >-
+    subtitle: 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
